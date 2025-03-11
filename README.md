@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineer and currently work in utility consumption analytics.
+I'm a Software Engineer and currently work in utility consumption data analytics and I am also proficent in data visualisation.
 
 
 ## 🌐 Socials:
